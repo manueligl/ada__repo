@@ -22,7 +22,7 @@ public class Main {
 
         System.out.println(File.separator);
 
-        /* */
+        
         File[] files= d.listFiles();
 
         for (File file:files){
